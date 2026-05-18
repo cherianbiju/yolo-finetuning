@@ -37,6 +37,6 @@ Custom football dataset in YOLO format.
 ```
 pip install ultralytics
 ```
-## Result image
+## Sample Result 
 ![Detection Result](https://github.com/user-attachments/assets/92b32577-ebfb-46ab-bf96-bd084cc0594c)
 
