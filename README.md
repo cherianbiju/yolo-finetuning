@@ -1,4 +1,4 @@
-# YOLOv8 Football Player Detection
+# YOLOv8 Fine-tuning (Football Player Detection)
 
 Fine-tuned YOLOv8s on a custom football dataset to detect players and football in images and videos.
 The pipeline covers data preparation, training, and inference on both images and videos.
